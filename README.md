@@ -48,5 +48,9 @@ Also includes:
 1. Install dependencies:
 pip install opencv-python numpy matplotlib
 
+# Citation
+IEEE Papers on WOA
+Digital Image Processing – Gonzalez
+Research articles from Google Scholar
   
 
